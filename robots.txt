@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yangnb886.github.io/sheephead-v1/sitemap.xml
